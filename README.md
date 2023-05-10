@@ -33,7 +33,7 @@
 
 
 <div align="left">
-<h2>Give it Gravel!</h2>
+<h2>Give it Gravel!</h2> &#129553;
 <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
 </div>
 
