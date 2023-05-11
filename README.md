@@ -35,7 +35,7 @@
 
 <div align="left">
 <h2>Give it Gravel! :hammer: 🧱 </h2>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/Guiferreira2000/count.svg" alt="hit counter" align="center">
 </div>
 
 <div align="left">
